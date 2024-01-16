@@ -23,7 +23,7 @@
             </div>
             <div class=”profile”>
                <h1>About Me</h1>
-               <img src=”profile-picture.png”>
+               <img src=”Profile.jpg”>
                <p>About the author</p>
             </div>  
          </div>        
